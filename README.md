@@ -1,2 +1,2 @@
 # Algorithms_Data_Structures
-Link [here]
+My solutions to LeetCode problems, mostly in Python. I'm currently exploring Scala.
