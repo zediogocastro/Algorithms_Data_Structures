@@ -20,7 +20,5 @@ class TestSolution(unittest.TestCase):
         self.assertEqual(actual_length, expected_length)
         self.assertEqual(nums[:actual_length], [0, 1, 2, 3, 4])
 
-    # You can add more test methods as needed
-
 if __name__ == '__main__':
     unittest.main()
