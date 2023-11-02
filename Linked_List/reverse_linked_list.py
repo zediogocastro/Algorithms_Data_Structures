@@ -15,6 +15,7 @@ class Solution:
             curr.next = prev
             prev = curr
             curr = nxt
+        print("Heloooooo")
         return prev
 
 # Tests for the above solution
